@@ -1,0 +1,13 @@
+*.slo
+*.lo
+*.o
+*.obj
+*.swp
+.~
+thumbs.db
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.dll
